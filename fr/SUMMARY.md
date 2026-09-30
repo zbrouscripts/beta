@@ -1,13 +1,21 @@
-# Summary
+# Table of contents
 
 * [🏠 Accueil](README.md)
-* [💀 FraseKill](frasekill/README.md)
-  * [Installation](frasekill/installation.md)
-  * [Configuration](frasekill/configuration.md)
-  * [Permissions et administration](frasekill/permissions-admin.md)
-  * [Tebex et expirations](frasekill/tebex.md)
-  * [Personnalisation](frasekill/customization.md)
-  * [Détails et termes associés](frasekill/details.md)
-  * [Exports](frasekill/exports.md)
-  * [Dépannage](frasekill/troubleshooting.md)
-* [🛟 Support](support.md)
+
+## 💬 zbrou\_chat
+
+* [Présentation](zbrou_chat/zbrou-chat.md)
+* [Dépendances](zbrou_chat/dependencies.md)
+* [Installation](zbrou_chat/installation.md)
+* [Configuration](zbrou_chat/configuration.md)
+
+## 🧰 zbrou\_utils
+
+* [Présentation](zbrou_utils/zbrou-utils.md)
+* [Dépendances](zbrou_utils/dependencies.md)
+* [Installation](zbrou_utils/installation.md)
+* [Configuration](zbrou_utils/configuration.md)
+
+## 🛟 Support
+
+* [Dépannage](support/troubleshooting.md)
