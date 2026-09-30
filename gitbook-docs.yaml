@@ -6,6 +6,7 @@ site:
       key: docs
       title: Docs
       path: docs
+      description: ""
       default: true
       children:
         - type: space
