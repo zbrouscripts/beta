@@ -1,0 +1,47 @@
+# Fehlerbehebung
+
+**Das Menü erscheint nicht**\
+`zbrou_utils` must start before `zbrou_chat`.
+
+**Konfiguration kann nicht geöffnet werden**\
+Pfad:
+
+```
+zbrou_chat/config.lua
+```
+
+```lua
+Config.ModerationPermissions.Owners = {
+    'license:YOUR_ROCKSTAR_LICENSE'
+}
+```
+
+```lua
+Config.ScriptConfiguration.Editors = {
+    'license:YOUR_ROCKSTAR_LICENSE'
+}
+```
+
+**Discord-Avatare werden nicht angezeigt**\
+Pfad:
+
+```
+zbrou_utils/server/private.lua
+```
+
+```lua
+ZBrouPrivate.DiscordBotToken = 'YOUR_DISCORD_BOT_TOKEN'
+```
+
+**Zwei Chats erscheinen**
+
+```cfg
+# ensure chat
+```
+
+Remove or disable `esx_rpchat` and `esx_chat_theme`.
+
+### Discord
+
+Wenn du weiterhin Hilfe benötigst, tritt unserem Discord bei.
+
