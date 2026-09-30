@@ -1,19 +1,8 @@
-# Home
+# 🏠 Home
 
-![ZBrou](../assets/brand/zbrou-logo.png)
+Script FiveM progettati per essere facili da installare, configurare e usare.
 
-## Frase Kill FiveM – ZBrou FraseKill
+### Community e supporto
 
-**ZBrou FraseKill** è uno script FiveM per kill phrase e messaggi di morte personalizzati, mostrati dopo che un giocatore elimina un altro. Copre anche ricerche come *kill phrase*, *custom kill message*, *kill text* e *death message*, con preset, animazioni, font, permessi e amministrazione.
+Entra nel nostro Discord per supporto, novità e aggiornamenti.
 
-### Avvio rapido
-
-```text
-1. Installa oxmysql
-2. Aggiungi zbrou_frasekill
-3. Configura i permessi
-4. ensure oxmysql
-5. ensure zbrou_frasekill
-```
-
-> ZBrou FraseKill v1.0.0
