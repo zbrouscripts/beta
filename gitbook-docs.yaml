@@ -1,0 +1,27 @@
+# ZBrou docs language map
+# Use each folder as a GitBook Space/Variant when configuring Git Sync.
+languages:
+  - code: es
+    name: Español
+    root: ./es
+  - code: en
+    name: English
+    root: ./en
+  - code: pt
+    name: Português
+    root: ./pt
+  - code: fr
+    name: Français
+    root: ./fr
+  - code: de
+    name: Deutsch
+    root: ./de
+  - code: tr
+    name: Türkçe
+    root: ./tr
+  - code: it
+    name: Italiano
+    root: ./it
+  - code: pl
+    name: Polski
+    root: ./pl
